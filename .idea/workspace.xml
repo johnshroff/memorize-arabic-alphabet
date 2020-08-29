@@ -2,8 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e6e93485-5bbb-43c6-85a6-d6b496fcfa0a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/public/assets/sounds/zay.mp3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/sounds/alif.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/sounds/alif.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/sounds/ayn.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/sounds/ayn.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/sounds/ba.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/sounds/ba.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/sounds/daad.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/sounds/daad.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/sounds/daal.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/sounds/daal.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/sounds/fa.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/sounds/fa.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/sounds/ghayn.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/sounds/ghayn.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/sounds/ha.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/sounds/ha.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/sounds/hha.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/sounds/hha.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/sounds/jiim.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/sounds/jiim.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/sounds/kaf.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/sounds/kaf.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/sounds/kha.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/sounds/kha.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/sounds/lam.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/sounds/lam.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/sounds/miim.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/sounds/miim.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/sounds/nuun.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/sounds/nuun.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/sounds/qaf.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/sounds/qaf.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/sounds/ra.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/sounds/ra.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/sounds/saad.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/sounds/saad.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/sounds/shiin.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/sounds/shiin.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/sounds/siin.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/sounds/siin.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/sounds/ta.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/sounds/ta.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/sounds/taa.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/sounds/taa.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/sounds/tha.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/sounds/tha.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/sounds/thaa.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/sounds/thaa.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/sounds/thaal.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/sounds/thaal.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/sounds/waw.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/sounds/waw.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/sounds/ya.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/sounds/ya.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/sounds/zay.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/sounds/zay.mp3" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,8 +66,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/components/LetterCard.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" column="63" selection-start-line="28" selection-start-column="63" selection-end-line="28" selection-end-column="63" />
+            <state relative-caret-position="255">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -61,7 +88,7 @@
         <entry file="file://$PROJECT_DIR$/src/App.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="420">
-              <caret line="58" column="18" lean-forward="true" selection-start-line="58" selection-start-column="18" selection-end-line="58" selection-end-column="18" />
+              <caret line="58" column="18" selection-start-line="58" selection-start-column="18" selection-end-line="58" selection-end-column="18" />
               <folding>
                 <element signature="e#0#38#0" expanded="true" />
               </folding>
@@ -82,7 +109,7 @@
         <entry file="file://$PROJECT_DIR$/src/components/LetterSidebar.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="64">
-              <caret line="29" column="67" lean-forward="true" selection-start-line="29" selection-start-column="56" selection-end-line="29" selection-end-column="67" />
+              <caret line="29" column="67" selection-start-line="29" selection-start-column="56" selection-end-line="29" selection-end-column="67" />
               <folding>
                 <element signature="e#0#38#0" expanded="true" />
               </folding>
@@ -106,7 +133,7 @@
         <entry file="file://$PROJECT_DIR$/src/lib/alphabet.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="435">
-              <caret line="29" column="2" lean-forward="true" selection-start-line="29" selection-start-column="2" selection-end-line="29" selection-end-column="2" />
+              <caret line="29" column="2" selection-start-line="29" selection-start-column="2" selection-end-line="29" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -169,6 +196,19 @@
             <path>
               <item name="read-arabic" type="b2602c69:ProjectViewProjectNode" />
               <item name="read-arabic" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="read-arabic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="read-arabic" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="sounds" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="read-arabic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="read-arabic" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -198,6 +238,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Projects\read-arabic\public\assets\sounds" />
       <recent name="C:\Projects\read-arabic\public" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -227,12 +268,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1598455954674</updated>
-      <workItem from="1598455955948" duration="19907000" />
+      <workItem from="1598455955948" duration="21464000" />
     </task>
+    <task id="LOCAL-00001" summary="add missing zay image">
+      <created>1598624935447</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1598624935447</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19907000" />
+    <option name="totallyTimeSpent" value="21464000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
@@ -240,12 +289,12 @@
     <layout>
       <window_info id="npm" side_tool="true" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32936078" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32936078" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -263,6 +312,10 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add missing zay image" />
+    <option name="LAST_COMMIT_MESSAGE" value="add missing zay image" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/App.css">
       <provider selected="true" editor-type-id="text-editor">
@@ -274,14 +327,14 @@
     <entry file="file://$PROJECT_DIR$/src/lib/alphabet.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
-          <caret line="29" column="2" lean-forward="true" selection-start-line="29" selection-start-column="2" selection-end-line="29" selection-end-column="2" />
+          <caret line="29" column="2" selection-start-line="29" selection-start-column="2" selection-end-line="29" selection-end-column="2" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/LetterSidebar.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="64">
-          <caret line="29" column="67" lean-forward="true" selection-start-line="29" selection-start-column="56" selection-end-line="29" selection-end-column="67" />
+          <caret line="29" column="67" selection-start-line="29" selection-start-column="56" selection-end-line="29" selection-end-column="67" />
           <folding>
             <element signature="e#0#38#0" expanded="true" />
           </folding>
@@ -322,7 +375,7 @@
     <entry file="file://$PROJECT_DIR$/src/App.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
-          <caret line="58" column="18" lean-forward="true" selection-start-line="58" selection-start-column="18" selection-end-line="58" selection-end-column="18" />
+          <caret line="58" column="18" selection-start-line="58" selection-start-column="18" selection-end-line="58" selection-end-column="18" />
           <folding>
             <element signature="e#0#38#0" expanded="true" />
           </folding>
@@ -331,8 +384,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/LetterCard.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="63" selection-start-line="28" selection-start-column="63" selection-end-line="28" selection-end-column="63" />
+        <state relative-caret-position="255">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
