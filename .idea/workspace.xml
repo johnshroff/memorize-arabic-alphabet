@@ -3,34 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="e6e93485-5bbb-43c6-85a6-d6b496fcfa0a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/sounds/alif.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/sounds/alif.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/sounds/ayn.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/sounds/ayn.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/sounds/ba.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/sounds/ba.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/sounds/daad.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/sounds/daad.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/sounds/daal.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/sounds/daal.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/sounds/fa.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/sounds/fa.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/sounds/ghayn.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/sounds/ghayn.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/sounds/ha.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/sounds/ha.mp3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/assets/sounds/hha.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/sounds/hha.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/sounds/jiim.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/sounds/jiim.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/sounds/kaf.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/sounds/kaf.mp3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/assets/sounds/kha.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/sounds/kha.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/sounds/lam.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/sounds/lam.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/sounds/miim.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/sounds/miim.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/sounds/nuun.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/sounds/nuun.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/sounds/qaf.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/sounds/qaf.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/sounds/ra.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/sounds/ra.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/sounds/saad.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/sounds/saad.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/sounds/shiin.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/sounds/shiin.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/sounds/siin.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/sounds/siin.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/sounds/ta.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/sounds/ta.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/sounds/taa.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/sounds/taa.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/sounds/tha.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/sounds/tha.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/sounds/thaa.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/sounds/thaa.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/sounds/thaal.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/sounds/thaal.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/sounds/waw.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/sounds/waw.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/sounds/ya.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/sounds/ya.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/sounds/zay.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/sounds/zay.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/LetterCard.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/LetterCard.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +28,7 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/App.css">
           <provider selected="true" editor-type-id="text-editor">
@@ -66,10 +41,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/components/LetterCard.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="240">
+              <caret line="16" column="31" lean-forward="true" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
               <folding>
-                <element signature="e#0#26#0" expanded="true" />
+                <element signature="e#0#38#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -87,11 +62,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/App.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
+            <state relative-caret-position="735">
               <caret line="58" column="18" selection-start-line="58" selection-start-column="18" selection-end-line="58" selection-end-column="18" />
-              <folding>
-                <element signature="e#0#38#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -108,11 +80,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/LetterSidebar.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="64">
+            <state relative-caret-position="390">
               <caret line="29" column="67" selection-start-line="29" selection-start-column="56" selection-end-line="29" selection-end-column="67" />
-              <folding>
-                <element signature="e#0#38#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -120,7 +89,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/MainMenu.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
+            <state relative-caret-position="210">
               <caret line="16" column="20" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="20" />
               <folding>
                 <element signature="e#0#38#0" expanded="true" />
@@ -268,7 +237,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1598455954674</updated>
-      <workItem from="1598455955948" duration="21464000" />
+      <workItem from="1598455955948" duration="25963000" />
+      <workItem from="1600009242308" duration="952000" />
     </task>
     <task id="LOCAL-00001" summary="add missing zay image">
       <created>1598624935447</created>
@@ -277,25 +247,27 @@
       <option name="project" value="LOCAL" />
       <updated>1598624935447</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add improved sounds">
+      <created>1598725867527</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1598725867527</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21464000" />
+    <option name="totallyTimeSpent" value="26915000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="npm" side_tool="true" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32936078" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -303,10 +275,15 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Database" weight="0.32995737" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32936078" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32995737" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -314,33 +291,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add missing zay image" />
-    <option name="LAST_COMMIT_MESSAGE" value="add missing zay image" />
+    <MESSAGE value="add improved sounds" />
+    <option name="LAST_COMMIT_MESSAGE" value="add improved sounds" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/App.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lib/alphabet.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="2" selection-start-line="29" selection-start-column="2" selection-end-line="29" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/LetterSidebar.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="29" column="67" selection-start-line="29" selection-start-column="56" selection-end-line="29" selection-end-column="67" />
-          <folding>
-            <element signature="e#0#38#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
@@ -348,20 +302,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/MainMenu.js">
+    <entry file="file://$PROJECT_DIR$/src/App.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="20" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="20" />
-          <folding>
-            <element signature="e#0#38#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        <state relative-caret-position="195">
+          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -374,20 +318,48 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/App.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
+        <state relative-caret-position="735">
           <caret line="58" column="18" selection-start-line="58" selection-start-column="18" selection-end-line="58" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/LetterSidebar.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="29" column="67" selection-start-line="29" selection-start-column="56" selection-end-line="29" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/MainMenu.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="16" column="20" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="20" />
           <folding>
             <element signature="e#0#38#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/lib/alphabet.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="2" selection-start-line="29" selection-start-column="2" selection-end-line="29" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/LetterCard.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="240">
+          <caret line="16" column="31" lean-forward="true" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
           <folding>
-            <element signature="e#0#26#0" expanded="true" />
+            <element signature="e#0#38#0" expanded="true" />
           </folding>
         </state>
       </provider>
