@@ -4,7 +4,7 @@ import {Button} from 'primereact/button';
 import alphabet from '../lib/alphabet';
 
 
-const Letter = ({selected, letter, imageSize, onClick, key}) => {
+const Letter = ({selected, letter, imageSize, onClick}) => {
 	const style = {
 		cursor: 'pointer',
 		height: imageSize,
