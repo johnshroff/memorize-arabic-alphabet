@@ -5,10 +5,16 @@ import {LetterSidebar} from "./LetterSidebar";
 export function MainMenu(props) {
 	const {onLetterSelected, selected, onSelectAll} = props;
 	const [sidebarVisible, setSidebarVisible] = useState(false);
+
+	function toggleSidebar() {
+		setSidebarVisible(!sidebarVisible)
+	}
+
+
 	const items = [
 		{
 			icon: 'pi pi-bars',
-			command: () => setSidebarVisible(!sidebarVisible)
+			command: toggleSidebar
 		}
 	];
 

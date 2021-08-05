@@ -4,8 +4,7 @@ import {Button} from 'primereact/button';
 import alphabet from '../lib/alphabet';
 
 
-const Letter = (props) => {
-	const {selected, letter, imageSize, onClick} = props;
+const Letter = ({selected, letter, imageSize, onClick, key}) => {
 	const style = {
 		cursor: 'pointer',
 		height: imageSize,
@@ -18,16 +17,17 @@ const Letter = (props) => {
 		border: '1px solid rgba(81, 203, 238, 1)'
 	} : {};
 	return (
-		<img onClick={() => onClick(letter)}
+		<img
+			 alt={`thumb-${letter}`}
+			 onClick={() => onClick(letter)}
 			 style={{...style, ...selectedStyle}}
 			 src={`../assets/images/${letter}.png`}
+			 className={'j-letter-thumb'}
 		/>
 	);
 };
 
-export function LetterSidebar(props) {
-
-	const {visible, onHide, onLetterSelected, selected, onSelectAll} = props;
+export function LetterSidebar({visible, onHide, onLetterSelected, selected, onSelectAll}) {
 
 	function onLetterClick(letter) {
 		onLetterSelected(letter);
@@ -38,13 +38,18 @@ export function LetterSidebar(props) {
 		const ar = [...Array(4).keys()];
 		for (let i = 0; i < 7; ++i) {
 			rows.push(
-				<div>
-					{ar.map((x) =>
-							<Letter selected={selected.includes(alphabet[(x + (i * 4))])}
-								letter={alphabet[(x + (i * 4))]}
-								onClick={onLetterClick} imageSize={60}
-							/>
-						)
+				<div key={i}>
+					{ar.map((x) => {
+							const letterIndex = (x + (i * 4));
+							return (
+								<Letter key={letterIndex}
+									selected={selected.includes(alphabet[letterIndex])}
+									letter={alphabet[letterIndex]}
+									onClick={onLetterClick}
+									imageSize={60}
+								/>
+							);
+						})
 					}
 				</div>
 			);
